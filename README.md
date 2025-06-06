@@ -1,5 +1,5 @@
 # custom-elements
-> My open source Web Component collection.
+> My open source web component collection.
 
 ### [andreruffert/syntax-highlight-element](https://github.com/andreruffert/syntax-highlight-element)
 
